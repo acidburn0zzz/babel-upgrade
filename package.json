@@ -33,7 +33,7 @@
     "commander": "^2.18.0",
     "cross-spawn": "^6.0.4",
     "diff": "^4.0.1",
-    "globby": "^9.1.0",
+    "globby": "^14.0.2",
     "has-yarn": "^2.0.0",
     "json5": "^2.1.0",
     "pify": "^4.0.1",
@@ -48,7 +48,7 @@
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "jest": "^24.5.0"
+    "jest": "^29.7.0"
   },
   "jest": {
     "testEnvironment": "node",
